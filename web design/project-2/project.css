@@ -1,0 +1,188 @@
+*{
+	box-sizing: border-box;
+}
+.main1{
+	height:80vh;
+	width: 100%;
+	border: 1 px solid black;
+	background-image: url("banner.jpg"); 
+	float: left;
+}
+.main2{
+	height:40vh;
+	width: 100%;
+	border: 1 px solid black;
+	float: left;
+}
+.main3{
+	height:50vh;
+	width: 100%;
+	border: 1 px solid black;
+	background-image: url("disco.jpg"); 
+	float: left;
+}
+.main4{
+	height:140vh;
+	width: 100%;
+	border: 1 px solid black;
+	
+	float: left;
+}
+
+.main5{
+	height:50vh;
+	width: 100%;
+	border: 1 px solid black;
+	 background: black;
+	float: left;
+}
+.p1{
+	height:50vh;
+	width: 50%;
+	border: 1 px solid black;
+	 position: relative;
+	float: left;
+
+}
+.p2{
+	height:50vh;
+	width: 50%;
+	border: 1 px solid black;
+	 
+	float: right;
+
+}
+.img{
+	height: 30vh;
+	width:50%;
+}
+.h1{
+	flood-color: white;
+}
+.g1{
+	height: 70vh;
+	width:100% ;
+	
+}
+.g2{
+	height: 50vh;
+	width: 80%;
+	background-image: url("cli.jpg"); 
+	
+}
+.e1{
+	height:15vh;
+	width: 100%;
+	text-align: center;
+}
+.e2{
+	height: 45vh;
+	width: 70%;
+	text-align: center;
+
+}
+.u1{
+	padding-top:20px ;
+	height: 10vh;
+	width: 100%;
+	text-align: center;
+
+}
+.u2{
+	height: 20vh;
+	width: 50%;
+	background-color: white;
+
+}
+.header{
+	height: 10vh;
+	width: 100%;
+	position: relative;
+	margin-top: 10px;
+
+}
+.main{
+	height: 20vh;
+	width: 60%;
+	position: relative;
+	margin-left: 520px;
+	margin-top: 10px;
+}
+.footer{
+	height: 10vh;
+	width: 100%;
+	position: relative;
+
+}
+.k1{
+	height: 4vh;
+	width: 100%;
+	position: relative;
+	text-align: center;
+	font-size: 30px;
+}
+.k2{
+	height: 4vh;
+	width: 100%;
+	position: relative;
+	text-align: center;
+	font-size: 15px;
+	margin-top: 5px;
+}
+.j1{
+	height: 20vh;
+	width: 20%;
+	float: left;
+	
+}
+.j2{
+	
+	width: 20%;
+	float: left;
+	padding-left: 5px;
+
+}
+.te{
+	height: 6vh;
+	width: 100%;
+	
+	border-color: 1 px pink;
+	
+}
+.o1{
+	height:15vh;
+	width: 100%;
+	padding-top: 5px;
+}
+.o2{
+	height: 50vh;
+	width: 100%;
+
+}
+.y1{
+	height: 30vh;
+	width: 20%;
+	float: left;
+	position: relative;
+	background-color:pink;
+	border: 1 px solid black;
+	margin-left: 240px;
+}
+.y2{
+	height: 40vh;
+	width: 40%;
+	float: left;
+	position: relative;
+	
+	border: 1 px solid black;
+	margin-left: 20px;
+}
+.y2 img{
+	height: 40vh;
+	width: 100%;
+}
+.y1 table{
+	height: 30vh;
+	width: 80%;
+	text-align: center;
+}
