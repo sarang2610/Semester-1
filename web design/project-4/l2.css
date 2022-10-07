@@ -1,0 +1,372 @@
+*{
+	box-sizing: border-box;
+}
+.header{
+	background-image: url(bg-1.jpg);
+	height: 100vh;
+	 background-size: 100%;
+}
+.logo{
+	float: left;
+	margin-left: 200px;
+	font-size: 30px;
+	color: whitesmoke;
+	margin-top: 20px;
+}
+.menu{
+	float:right;
+	margin-right: 200px;
+	margin-top: 20px;
+}
+.menu a{
+	text-decoration: none;
+}
+.menu1{
+	margin: 5px;
+	color: white;
+	font-size: 12px;
+}
+#menu2{
+	color: dodgerblue;
+}
+.sp1{
+	margin-top: 320px;
+	float: left;
+}
+.sp2{
+	margin-top: 320px;
+	float: right;
+}
+.sp{
+	margin-top: 280px;
+	margin-left: 25%;
+	float: left;
+	text-align: center;
+	color: whitesmoke;
+}
+.sp3{
+	font-size: 60px;
+}
+.sp4{
+	margin: 10px;
+}
+.sp5{
+	margin: 50px;
+}
+.sp6{
+	background-color: white;
+	padding: 10px;
+	color: black;
+	border-radius: 40px;
+}
+.dv1{
+	text-align: center;
+	margin: 30px;
+	margin-top: 100px;
+}
+.cn1{
+	margin: px;
+	font-size: 35px;
+	color: darkslategray;
+}
+.cn2{
+	color: dodgerblue;
+	margin-bottom: 10px;
+}
+.cn3{
+	font-size: 16px;
+	color: gray;
+	margin-top: 15px;
+}
+.cn4{
+	font-size: 16px;
+	color: gray;
+}
+.cn5{
+	color: dodgerblue;
+}
+.dv2{
+	height: auto;
+	width: 38%;
+	margin-left: 180px;
+	float: left;
+}
+.dc1{
+	float: left;
+	width: 20%;
+}
+.dc1 img{
+	max-width: 100%;
+}
+.dc2{
+	float: left;
+}
+.dt1{
+	font-size: 25px;
+	color: darkslategray;
+	margin: 15px;
+}
+.dt2{
+	color: gray;
+	margin-left: 15px;
+}
+.dv3{
+	float: left;
+	margin-left: 10px;
+	height: auto;
+	width: 38%;
+}
+.dc3{
+	float: left;
+	width: 20%;
+}
+.dc3 img{
+	max-width: 100%;
+}
+.dd1{
+	margin: 30px;
+	margin-bottom: 200px;
+}
+.dd2{
+	background-image: url(bg-2.jpg);
+	height: 40vh;
+	margin-top: 50px;
+}
+.dk1{
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.7);
+	height: 17vh;
+	width: 15%;
+	float: left;
+	margin-left: 120px;
+	margin-top: 100px;
+}
+.kk1{
+	font-size: 40px;
+	color: dodgerblue;
+	padding: 10px;
+}
+.kk2{
+	margin-top: 8px;
+	color: dodgerblue;
+}
+.dd3{
+	background-color: lightgray;
+	height: 95vh;
+}
+.da{
+	text-align: center;
+	padding: 30px;
+}
+.da1{
+	color: darkslategray;
+	font-size: 50px;
+	margin-top: 30px;
+}
+.da2{
+	color: dodgerblue;
+	margin-bottom: 20px;
+}
+.da3{
+	font-size: 20px;
+	color: gray;
+}
+.dak{
+	width: 25%;
+	height: 50vh;
+	float: left;
+	margin-top: 30px;
+	margin-left: 160px;
+}
+.dak1{
+	width: 25%;
+	height: 50vh;
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.dak2{
+	width: 25%;
+	height: 50vh;
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+.dak3{
+	width: 25%;
+	height: 8vh;
+	float: left;
+    margin-top: 20px;
+	margin-left: 160px;
+}
+.dak4{
+	width: 25%;
+	height: 8vh;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.dak5{
+	width: 25%;
+	height: 8vh;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.team{
+	width: 25%;
+	position: absolute;
+	height: 50vh;
+	z-index: 1;
+}
+.team1{
+	margin-top: 352px;
+	position: absolute;
+	height: 6vh;
+	width: 25%;
+	background: rgba(255, 255, 255, 0.7);
+	text-align: center;
+	z-index: 6;
+}
+.team img{
+	max-width: 100%;
+	height: 50vh;
+}
+.team1 img{
+	max-width: 50%;
+	height: 6vh;
+
+}
+.name{
+	font-size: 20px;
+	color: dimgray;
+}
+.name1{
+	color: dimgray;
+}
+.dd4{
+	text-align: center;
+	margin: 20px;
+	margin-top: 100px;
+}
+.kd{
+	font-size: 40px;
+	color: darkslategray;
+}
+.kd1{
+	color: dodgerblue;
+	margin-bottom: 20px;
+}
+.kd2{
+	font-size: 15px;
+	color: gray;
+}
+.kd3{
+	color: dodgerblue;
+}
+.dd5{
+	height: 50vh;
+	width: 100%;
+}
+.dd6{
+	position: absolute;
+	width: 100%;
+	background-image: url(bg-3.jpg);
+	height: 50vh;
+	text-align: center;
+	z-index: 1;
+}
+.dd7{
+	position: absolute;
+	width: 8%;
+	margin-left: 730px;
+	margin-top: 80px;
+	z-index: 2;
+}
+.dd7 img{
+	max-width: 100%;
+	border-radius: 100px;
+}
+.dip{
+	color: white;
+    padding-top: 220px;
+}
+.dip1{
+	color: white;
+}
+.dip2{
+	color: dodgerblue;
+	padding: 10px;
+	font-size: 20px;
+	height: 10vh;
+	background-image: url(bg-1.jpg);
+}
+.table{
+	width: 27%;
+	height: 60vh;
+	background-color: whitesmoke;
+	float: left;
+	margin: 20px;
+	text-align: center;
+}
+.dd8{
+	margin-left: 150px;
+	margin-bottom: 200px;
+}
+.tb{
+	padding: 15px;
+	font-size: 30px;
+	background-color: darkslategray;
+	color: white;
+}
+.tb1{
+	background-color: lightgray;
+	padding: 10px;
+}
+.tb2{
+	font-size: 30px;
+	color: slategray;
+}
+.tb3{
+	color: gray;
+}
+.tb4{
+	padding: 10px;
+	color: gray;
+}
+.tb5{
+	padding: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
+	border: 2px solid gray;
+	border-radius: 30px;
+}
+#tb6{
+	padding-top: 20px;
+}
+#tb7{
+	background-color: dodgerblue;
+}
+#tb8{
+	color: dodgerblue;
+	border: 2px solid dodgerblue;
+}
+.dd9{
+	height: 20vh;
+	background-color: dodgerblue;
+	margin-top: 60px;
+	text-align: center;
+}
+.cse{
+	color: white;
+	padding: 30px;
+	font-size: 35px;
+}
+.cse1{
+	padding: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
+	color: white;
+	border: 2px solid white;
+	border-radius: 30px;
+}
