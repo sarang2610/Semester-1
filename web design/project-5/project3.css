@@ -1,0 +1,256 @@
+*{
+	box-sizing: border-box;
+}
+.header {
+    height: 60vh;
+    width: 100%;
+    background-image: url(bg-5.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.main{
+	height: 80vh;
+	width:100%;
+	border: 1 px solid black;
+	
+}
+.footer{
+	height:110vh;
+	width:100%;
+	border: 1 px solid black;
+	background-image: url(bg-4.jpg);
+	
+
+}
+.hed1{
+	height:10vh;
+	width: 100%;
+	
+	border: 1 px solid black;
+}
+.hed2 {
+    height: 40vh;
+    width: 100%;
+    border: 1 px solid black;
+    margin-top: 140px;
+    padding-top: 20px;
+}
+.s1 {
+    height: 10vh;
+    width: 25%;
+    float: left;
+    border: 1 px solid black;
+    padding-left: 170px;
+    margin-left:215px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.s2 {
+    height: 10vh;
+    width: 65%;
+    padding-left: 830px;
+    float: left;
+}
+.s2 table{
+	height: 10vh;
+	
+	font-size:60px;
+}
+.hed2 h1{
+	font-size:65px;
+}
+.hed2 h5{
+	font-size:30px;
+}
+.hed2 button {
+    background-color: blue;
+    color: white;
+    height: 5vh;
+    font-size: 25px;
+}
+.main1 {
+    height: 10vh;
+    width: 100%;
+    padding-top: 45px;
+}
+.main2{
+	height: 60vh;
+	width: 100%;	
+}
+.main1 h1 {
+    text-align: center;
+    font-size: 45px;
+    padding-top: 30px;
+}
+.w1 {
+    height: 25vh;
+    width: 28%;
+    float: left;
+    margin-left:130px;
+    text-align: center;
+    font-size: 21px;
+    padding-top: 60px;
+    margin-top: 50px;
+
+}
+.w2 {
+    height: 25vh;
+    width: 28%;
+    float: left;
+ 	text-align: center; 
+ 	font-size: 21px;
+ 	margin-left: 50px; 
+ 	padding-top: 60px;
+ 	margin-top: 50px;
+ 	padding-left:20px;
+}
+.fut1 {
+    height: 60vh;
+    width: 100%;
+    
+    padding-top: 70px;
+}
+.fut2{
+	height:60vh;
+	width: 100%;
+	background-color: white;
+	
+}
+.fut3{
+	height:40vh;
+	width: 100%;
+	background-color:ghostwhite;
+}
+.fut4 {
+    height: 10vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 40px;
+}
+.fut1 h3{
+	font-size: 31px;
+	color: white;
+}
+.fut1 h4{
+	font-size:31px;
+	color:blue;
+}
+.fut1 img{
+	height:3vh;
+}
+.a1 {
+    height: 40vh;
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding-top: 160px;
+}
+
+
+.a2{
+	height:40vh;
+	width: 30%;
+	float: left;
+	text-align: center;
+	padding-top: 100px;
+	margin-left: 80px;
+}
+.a3 {
+    height: 40vh;
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding-top: 145px;
+}
+.a1 h5{
+	font-size: 32px;
+
+}
+.a1 img{
+	height: 5vh;
+}
+.a2 h1{
+	font-size: 34px;
+}
+.a2 h3{
+	font-size: 30px;
+}
+.a2 h6{
+	font-size: 30px;
+}
+.a3 h1{
+	font-size:40px;
+}
+.a3 h2{
+	font-size:29px;
+}
+.a3 button{
+	font-size:36px;
+	background-color: green;
+	color: white;
+}
+.y1 {
+    height: 10vh;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 30px;
+
+}
+.y2{
+	height:30vh;
+	width: 100%;
+	text-align: center;
+	padding-top: 100px;
+
+}
+.y3{
+	height:10vh;
+	width: 100%;
+	text-align: center;
+	margin-top: 85px;
+}
+.y3 h2{
+	font-size:25px;
+}
+.y3 button{
+	font-size:25px;
+	background-color: green;
+	color: white;
+}
+.y2 table{
+	height: 10vh;
+	width: 40%;
+
+}
+.l1{
+	height:5vh;
+	width: 100%;
+}
+.l2{
+	height: 10vh;
+	width: 100%;
+}
+.x1{
+	height:5vh;
+	width: 50%;
+	float: left;
+}
+.x2{
+	height:5vh;
+	width: 50%;
+	float: left;
+}
+.fut1 a {
+    text-align: center;
+    font-size: 40px;
+    padding-left: 750px;
+}
+.fut1 h6 {
+    text-align: center;
+    font-size: 40px;
+}
